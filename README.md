@@ -7,6 +7,7 @@ Currently i develop frontend for sites.
 Frameworks that i use:
 * Angular
 * Svelte/SvelteKit
+*  React/Nextjs
 
 Bundlers:
 * Webpack
